@@ -1,5 +1,9 @@
 # Dockerized smee
 
+
+[![Docker Build Status](https://img.shields.io/docker/build/merrillcorporation/docker-smee.svg?style=for-the-badge)](https://hub.docker.com/r/merrillcorporation/docker-smee/builds/)
+
+
 https://smee.io/
 
 ## build locally
